@@ -1,0 +1,4290 @@
+body,
+
+ul,
+
+ol,
+
+li,
+
+p,
+
+h1,
+
+h2,
+
+h3,
+
+h4,
+
+h5,
+
+h6,
+
+form,
+
+fieldset,
+
+table,
+
+td,
+
+img,
+
+div,
+
+span {
+
+    margin: 0;
+
+    padding: 0;
+
+    border: 0;
+
+    position: 0;
+
+}
+
+
+
+.AirCross2 img {
+
+    border: 0;
+
+    vertical-align: top
+
+}
+
+
+
+.AirCross2 a {
+
+    text-decoration: none;
+
+    color: #fff;
+
+}
+
+
+
+.AirCross2 a:hover {
+
+    -webkit-tap-highlight-color: transparent;
+
+}
+
+
+
+html {
+
+    
+
+}
+
+
+
+.AirCross2 textarea {
+
+    resize: none;
+
+}
+
+
+
+.AirCross2 li {
+
+    list-style: none;
+
+}
+
+
+
+.AirCross2 input:focus {
+
+    outline: none;
+
+}
+
+
+
+.AirCross2 .cl:after {
+
+    content: "";
+
+    display: block;
+
+    clear: both;
+
+    height: 0;
+
+    overflow: hidden;
+
+    visibility: hidden;
+
+}
+
+
+
+.AirCross2 .cl {
+
+    zoom: 1;
+
+}
+
+
+
+
+
+
+
+
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+
+
+body {
+
+    -webkit-text-size-adjust: none
+
+}
+
+
+
+html {
+
+    -webkit-text-size-adjust: none;
+
+}
+
+
+
+
+
+/* html {
+
+    font-size: calc(100vw/19.2);
+
+}
+
+body {
+
+    font-size: .24rem;
+
+} */
+
+
+
+.mv0pc{
+    width: 100%;
+    height: 100%;
+}
+.mv0pc .module1{
+    width: 100%
+}
+/* 字体样式 */
+
+.mv0pc .AirCross2title{
+
+    width: 11.50rem;
+
+    font-family: OpenSans-Bold;
+
+	font-size: .60rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.015rem;
+
+    color: #ffffff;
+    transition: all 0.3s ease;
+
+}
+
+.AirCross2describe{
+
+    width: 11.50rem;
+
+    font-family: OpenSans-Regular;
+
+	font-size: .18rem;
+
+	line-height: .30rem;
+
+    color: #ffffff;
+    transition: all 0.3s ease;
+
+}
+
+
+
+
+
+
+
+.fixation{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.AirCross2{
+    position: relative;
+    z-index: 1111;
+}
+.AirCross2 .module12w{
+    width: 100%;
+    position: relative;
+}
+.AirCross2 .module12w .img{
+    width: 100%;
+}
+.AirCross2 .module12w .img img{
+    width: 100%;
+}
+.AirCross2 .module12w .text{
+    position: absolute;
+    top: 3.74rem;
+    left: 11.79rem;
+}
+.AirCross2 .module12w .text .name{
+    font-size: .60rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0px;
+	color: #333333;
+}
+.AirCross2 .module12w .text .details{
+    font-size: .30rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .28rem;
+	letter-spacing: 0px;
+    color: #333333;
+    margin-top: .20rem;
+}
+.AirCross2 .module13w{
+    width: 100%;
+    /* height: 10.80rem; */
+    position: relative;
+}
+.AirCross2 .module13w .bj{
+    width: 100%;
+}
+.AirCross2 .module13w .module13n{
+    position: absolute;
+    top: 9.47rem;
+    left: 8.23rem;
+    font-size: .36rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .40rem;
+	letter-spacing: 0px;
+    color: #fefbf6;
+    cursor: pointer;
+}
+.AirCross2 .module13w .module13n img{
+    width: .40rem;
+    height: .40rem;
+    margin-left: .20rem;
+}
+.AirCross2 .module14w{
+    width: 100%;
+    height: 10.80rem;
+    background: transparent;
+}
+.AirCross2 .module1w{
+    width: 100%;
+    position: relative;
+}
+.AirCross2 .module1w .bj{
+    width: 100%;
+}
+
+.AirCross2 .module1w .module1n{
+    position: absolute;
+    top: 0;
+    left: 2.44em;
+}
+.AirCross2 .module1w .module1n .left{
+    float: left;
+    margin-top: 1.82rem;
+}
+.AirCross2 .module1w .module1n .AirCross2title{
+
+    /* margin-top: 1.20rem; */
+    text-align: left;
+    width: 7.44rem;
+}
+
+.AirCross2 .module1w .module1n .AirCross2describe{
+    text-align: left;
+    width: 7.44rem;
+    margin-top: .38rem;
+
+}
+
+.AirCross2 .module1w .module1n .machine{
+
+    width: 7.44rem;
+
+    padding-top: 1rem;
+}
+
+.AirCross2 .module1w .module1n .machine li{
+
+    float: left;
+
+    transition: all 0.3s ease;
+    margin-right: .95rem;
+}
+.AirCross2 .module1w .module1n .machine .li1 .up{
+
+    font-family: OpenSans-Regular;
+
+	font-size: .24rem;
+
+	line-height: .36rem;
+
+	color: #ffffff;
+
+	opacity: 0.6;
+
+}
+
+.AirCross2 .module1w .module1n .machine .li .down{
+
+    margin-top: .2rem;
+
+}
+
+.AirCross2 .module1w .module1n .machine .li1 .down span:nth-child(1){
+
+    font-family: OpenSans-Bold;
+
+	font-size: 1.00rem;
+
+	line-height: .36rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module1w .module1n .machine .li1 .down span:nth-child(2){
+
+    font-family: OpenSans-Regular;
+
+	font-size: .24rem;
+
+	line-height: .36rem;
+
+	color: #ffffff;
+
+	opacity: 0.6;
+
+}
+.AirCross2 .module1w .module1n .colour{
+    margin-top: 1.42rem;
+}
+.AirCross2 .module1w .module1n .colour li{
+    float: left;
+    margin-right: .95rem;
+}
+.AirCross2 .module1w .module1n .colour li .up{
+    width: .60rem;
+	height: .60rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: solid .02rem transparent;
+}
+.module1wactive{
+    border: solid .02rem #e30000 !important;
+}
+.AirCross2 .module1w .module1n .colour li .up img{
+    width: .40rem;
+    height: .40rem;
+    margin-top: .09rem;
+    margin-left: .10rem;
+}
+.AirCross2 .module1w .module1n .colour li .down{
+    font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 72px;
+	letter-spacing: 0px;
+	color: #ffffff;
+}
+.AirCross2 .module1w .module1n .right{
+    width: 6.63rem;
+    margin-top: .83rem;
+    margin-left: .90rem;
+    float: left;
+}
+.AirCross2 .module1w .module1n .right img{
+    width: 100%;
+}
+.AirCross2 .module1w .module1n .right .rightwhite{
+    display: none;
+}
+.AirCross2 .module1w .module1n .machine .img img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+.AirCross2 .module1w .module1n .hint1{
+    font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 30px;
+	letter-spacing: 0px;
+    color: #ffffff;
+    margin-top: 70px;
+    text-align: center;
+    padding-bottom: 94px;
+}
+
+
+
+.AirCross2 .module2w{
+
+    width: 100%;
+
+    background: url(../img/2.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module2w .module2n{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    padding-top: 1.20rem;
+
+    padding-bottom: 1.05rem;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.AirCross2 .module2w .module2n .left{
+
+    width: 6.27rem;
+
+    margin-top: .29rem;
+
+}
+
+.AirCross2 .module2w .module2n .left .AirCross2title{
+
+    width: 6.27rem;
+
+    text-align:left;
+
+}
+
+.AirCross2 .module2w .module2n .left .AirCross2describe{
+
+    width: 6.27rem;
+
+    text-align:left;
+
+    margin-top: .38rem;
+
+}
+
+.skip{
+
+    width: 100%;
+
+    font-size: .17rem;
+
+    color: #1890ff;
+
+    text-align:left;
+
+    margin-top: .30rem;
+
+    transition: all 0.3s ease;
+
+}
+
+.skip a{
+
+    color: #1890ff;
+
+    border-bottom: 1px solid #1890ff
+
+}
+
+.AirCross2 .module2w .module2n .left img{
+
+    width: 6.27rem;
+
+    height: 3.18rem;
+
+    margin-top:.87rem; 
+
+}
+
+.AirCross2 .module2w .module2n .right{
+
+    width: 6.2rem;
+
+    height: 6.74rem;
+
+}
+
+.AirCross2 .module2w .module2n .right img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+.AirCross2 .module3w{
+
+    width: 100%;
+
+    background-color: #000000;
+
+}
+.AirCross2 .module3w .AirCross2title{
+    text-align: center;
+    margin: 0 auto;
+}
+.AirCross2 .module3w .AirCross2describe{
+    text-align: center;
+    margin: 0 auto;
+}
+.AirCross2 .module3w .module3n{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    padding-top: 1rem;
+
+    padding-bottom: 1rem;
+
+}
+
+
+
+.AirCross2 .module3w .module3n .AirCross2describe{
+
+    margin-top: .38rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1{
+
+    width: 100%;
+
+    height: 6.65rem;
+
+    margin-top: .58rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide{
+
+    width: 100%;
+
+    height: 6.65rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img1{
+
+    width: 4.88rem;
+
+    height: 6.08rem;
+
+    margin: 0 auto;
+
+    /* margin-top: .57rem; */
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img1 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img2{
+
+    width: 8.64rem;
+
+    height: 6.65rem;
+
+    margin: 0 auto;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img2 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-pagination-bullets {
+
+    bottom: 0;
+
+    left: 0;
+
+    width: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-pagination-bullet {
+
+    width: 2rem;
+
+    height: .74rem;
+
+    display: inline-block;
+
+    border-radius:0;
+
+    background: transparent;
+
+    /* opacity: 0.2; */
+
+    line-height: .74rem;
+
+    border-bottom: .03rem solid rgba(255, 255, 255, .3);
+
+    opacity: 1;
+
+    margin-left: 1.75rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-pagination-bullet-active{
+
+    border-bottom: .03rem solid rgba(255, 255, 255, 1);
+
+    opacity: 1;
+
+}
+
+.AirCross2 .module3w .module3n .subtitle{
+
+    position: absolute;
+
+    text-align: center;
+
+    -webkit-transition: 300ms opacity;
+
+    -o-transition: 300ms opacity;
+
+    transition: 300ms opacity;
+
+    -webkit-transform: translate3d(0, 0, 0);
+
+    transform: translate3d(0, 0, 0);
+
+    z-index: 1;
+
+    bottom: 1rem;
+
+    left: 0;
+
+    width: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .subtitle li{
+
+    /* width: 2rem; */
+
+    height: .74rem;
+
+    display: inline-block;
+
+    border-radius: 0;
+
+    background: transparent;
+
+    /* opacity: 0.2; */
+
+    line-height: .74rem;
+
+    opacity: 1;
+
+    margin-left: 1.75rem;
+
+    font-family: AdobeHeitiStd-Regular;
+
+	font-size: .24rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.006rem;
+
+    color: #ffffff;
+
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+.AirCross2 .module4w{
+
+    width: 100%;
+
+    /* height: 17rem; */
+
+    background-color: #111216;
+
+}
+
+.AirCross2 .module4w .module4n{
+
+    width: 100%;
+
+    /* height: 7.86rem; */
+
+    /* height: 15rem; */
+
+    margin: 0 auto;
+
+    padding-bottom: 1.5rem;
+
+    padding-top: 1.5rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2{
+
+    width: 100%;
+
+    height: 4.26rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container{
+
+    width: 100%;
+
+    height: 4.26rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-wrapper{
+
+    width: 100%;
+
+    height: 4.26rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide{
+
+    width: 100%;
+
+    height: 4.26rem !important;
+
+    margin-bottom: 0;
+
+    
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .content{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .left{
+    float: left;
+    width: 7.20rem;
+
+	height: 4.26rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right{
+
+    width: 6.8rem;
+    float: left;
+    margin-left: .83rem;
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modename{
+
+    width: 100%;
+
+	font-family: OpenSans-SemiBold;
+
+	font-size: .50rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.01rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .modedescribe{
+
+    width: 100%;
+
+	font-family: OpenSans-Regular;
+
+	font-size: .18rem;
+
+	line-height: .30rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .name1{
+
+    margin-top: .10rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .describe1{
+
+    margin-top: .40rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .name2{
+
+    margin-top: .95rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .describe2{
+
+    margin-top: .51rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .name3{
+
+    margin-top: .95rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .describe3{
+
+    margin-top: .51rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist{
+
+    margin-top: .88rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li{
+
+    float: left;
+
+    margin-right: .50rem;
+
+}
+
+
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .up{
+
+    margin: 0 auto;   
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .up img{
+
+    width: 100%;
+
+    height: 100%; 
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .up1{
+
+    width: .72rem;
+
+    height: .72rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .up2{
+
+    width: .91rem;
+
+    height: .70rem;
+
+    margin-top: .01rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .up3{
+
+    width: .80rem;
+
+    height: .66rem;
+
+    margin-top: .06rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .down{
+
+	font-family: OpenSans-Regular;
+
+	font-size: .22rem;
+
+	line-height: .30rem;
+
+    color: #ffffff;
+
+    margin-top: .26rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-pagination-bullets {
+
+    right: 70px !important;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-pagination-bullet-active {
+
+    opacity: 1 !important;
+
+    background: #fff;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-pagination-bullet {
+
+    background: #fff;
+
+    opacity: 0.5;
+
+}
+
+.AirCross2 .module5w{
+
+    width: 100%;
+
+    background: url(../img/5.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module5w .module5n{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    padding-top: 1.20rem;
+
+    padding-bottom: 1.05rem;
+
+    
+
+}
+
+.AirCross2 .module5w .module5n li{
+
+    margin-top: 1.2rem;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.AirCross2 .module5w .module5n li:nth-child(1){
+
+    margin-top: 0;
+
+}
+
+.AirCross2 .module5w .module5n li .left{
+
+    width: 50%;
+
+}
+
+.AirCross2 .module5w .module5n li .right{
+
+    width: 50%;
+
+}
+
+.AirCross2 .module5w .module5n li .AirCross2title{
+
+    width: 6.26rem;
+    margin: 0 auto;
+    margin-top: 1.22rem;
+
+    text-align: left;
+
+}
+
+.AirCross2 .module5w .module5n li .AirCross2describe{
+
+    width: 6.26rem;
+    margin: 0 auto;
+    margin-top: .48rem;
+
+    text-align: left;
+
+}
+
+
+
+.AirCross2 .module6w{
+
+    width: 100%;
+
+    background-color: #0a0a0d;
+
+}
+
+.AirCross2 .module6w .module6n{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    padding-top: 1rem;
+
+    padding-bottom: 1.08rem;
+
+}
+
+.AirCross2 .module6w .module6n .AirCross2title{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.AirCross2 .module6w .module6n .AirCross2describe{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: .52rem;
+}
+
+
+
+.AirCross2 .module6w .module6n .effects{
+
+    width: 100%;
+
+    margin-top: .85rem;
+
+    position: relative;
+
+    height: 7.50rem;
+
+}
+
+.AirCross2 .module6w .module6n .effects .text_list{
+
+    width: 100%;
+
+    height: 100%;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+    z-index: 9;
+
+    
+
+}
+
+.AirCross2 .module6w .module6n .effects .text_list li{
+
+    width: 25%;
+
+    height: 100%;
+
+    position: relative;
+
+    border-right: .01rem solid #fff;
+
+    box-sizing:border-box;
+
+    /* float: left; */
+
+}
+
+.AirCross2 .module6w .module6n .effects .text_list li:nth-child(4){
+
+    border-right:none;
+
+}
+
+.AirCross2 .module6w .module6n .effects .text_list li .name{
+
+    position: absolute;
+
+    top: 6.67rem;
+
+    left: 0;
+
+	font-family: AdobeHeitiStd-Regular;
+
+	font-size: .40rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.01rem;
+
+	color: #ffffff;
+
+    width: 100%;
+
+    text-align: center;
+
+}
+
+.AirCross2 .module6w .module6n .effects .img_list{
+
+    width: 100%;
+
+    height: 100%;
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+    z-index: 8;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+    position: absolute;
+
+}
+
+.AirCross2 .module6w .module6n .effects .img_list .mengcheng{
+
+    width: 100%;
+
+    height: 7.5rem;
+
+    background: rgba(0, 0, 0, 0.4);
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+}
+
+.AirCross2 .module6w .module6n .effects .img_list img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module6w .module6n .effects .img_list li{
+
+    height: 100%;
+
+    width: 25%;
+
+    transition-delay: 3s;
+
+    -moz-transition-delay: 3s; /* Firefox 4 */
+
+    -webkit-transition-delay: 3s; /* Safari 和 Chrome */
+
+    -o-transition-delay: 3s; /* Opera */
+
+}
+
+.AirCross2 .module6w .module6n .effects .img_list li img{
+
+    width: 100%; 
+
+    height: 100%;
+
+}
+
+.AirCross2 .module6w .module6n .effects .video_list{
+
+    width: 100%;
+
+    height: 100%;
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+    /* z-index: 0; */
+
+    /* opacity: 0; */
+
+}
+
+.AirCross2 .module6w .module6n .effects .video_list li{
+
+    width: 100%;
+
+    height: 100%;
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+    opacity: 0;
+
+    background-color: #0a0a0d;
+
+}
+
+.AirCross2 .module6w .module6n .effects .video_list .cutvideo2{
+
+    background-color: #0a0a0d;
+
+}
+
+.AirCross2 .module6w .module6n .effects .video_list li video{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+
+
+
+
+.AirCross2 .module7w{
+
+    width: 100%;
+
+    height: 9rem;
+
+    background: url(../img/7.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module7w .module7n{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    padding-top: 2.02rem;
+
+    padding-bottom: 2.77rem;
+
+}
+
+.AirCross2 .module7w .module7n .AirCross2title{
+
+    width: 7.3rem;
+
+    text-align: left;
+
+    margin: 0;
+
+}
+
+.AirCross2 .module7w .module7n .AirCross2describe{
+
+    width: 7.3rem;
+
+    text-align: left;
+
+    margin: 0;
+
+    margin-top: .38rem; 
+
+}
+
+.AirCross2 .module7w .module7n .element{
+
+    margin-top: .93rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li{
+
+    float: left;
+
+    margin-right: .62rem;
+
+    /* width: 2rem; */
+
+}
+
+.AirCross2 .module7w .module7n .element li .up{
+
+    margin: 0 auto;   
+
+}
+
+.AirCross2 .module7w .module7n .element li .up img{
+
+    width: 100%;
+
+    height: 100%; 
+
+}
+
+.AirCross2 .module7w .module7n .element li .up1{
+
+    width: .77rem;
+
+    height: .77rem;
+
+    margin-top: .03rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .up2{
+
+    width: .72rem;
+
+    height: .54rem;
+
+    margin-top: .16rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .up3{
+
+    width: .44rem;
+
+    height: .81rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .down{
+
+	font-family: OpenSans-Regular;
+
+	font-size: .18rem;
+
+    color: #ffffff;
+
+    /* margin-top: .27rem; */
+
+}
+
+.AirCross2 .module7w .module7n .element li .down1{
+
+    margin-top: .27rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .down2{
+
+    margin-top: .37rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .down3{
+
+    margin-top: .26rem;
+
+}
+
+
+
+.AirCross2 .module8w{
+    width: 100%;
+
+    height: 8.5rem;
+
+    background: url(../img/8_10.png) no-repeat;
+
+    background-size: auto 100%;
+
+    position: relative
+
+}
+
+.AirCross2 .module8w .bjimg{
+
+    position: absolute;
+
+    bottom: 0;
+
+    left: 4rem;
+
+    height: 8.5rem;
+
+    z-index: 0;
+
+}
+
+.AirCross2 .module8w .bjimg img{
+
+    height: 100%;
+
+    width: auto;
+
+    
+
+}
+
+.AirCross2 .module8w .module8n{
+
+    width: 14.40rem;
+
+    /* margin: 0 auto; */
+
+    padding-top: 1rem;
+
+    padding-bottom: 2.77rem;
+
+    z-index: 11;
+
+    position: absolute;
+
+    top: 0;
+
+    left: 2.4rem;
+
+}
+
+.AirCross2 .module8w .module8n .AirCross2title{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.AirCross2 .module8w .module8n .swiper8pc{
+
+    margin-top: 1.1rem;
+
+    margin-left: 6.4rem;
+
+    width: 8rem;
+
+    height: 5rem;
+
+}
+
+.AirCross2 .module8w .module8n .swiper8pc .swiper-wrapper{
+
+    width: 8rem;
+
+    height: 5rem;
+
+}
+
+.AirCross2 .module8w .module8n .auto{
+
+    /* margin-top: 1.1rem; */
+
+    /* margin-left: 6.4rem; */
+
+    width: 8rem;
+
+}
+
+.AirCross2 .module8w .module8n .auto  .autotitle{
+
+    font-family: OpenSans-SemiBold;
+
+	font-size: .50rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.01rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module8w .module8n .auto .autodescribe{
+
+    font-family: OpenSans-Regular;
+
+	font-size: .18rem;
+
+	line-height: .30rem;
+
+    color: #ffffff;
+
+    margin-top: .40rem;
+
+}
+
+.AirCross2 .module8w .module8n .auto .list{
+
+    margin-top: .94rem;
+
+}
+
+.AirCross2 .module8w .module8n .auto .list li{
+
+    width: 2.04rem;
+
+    height: 1.15rem;
+
+    margin-right: .39rem;
+
+    float: left;
+
+}
+
+.AirCross2 .module8w .module8n .auto .list li img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+.auto1{
+
+    display: block;
+
+}
+
+.auto2{
+
+    display: block;
+
+}
+
+.auto3{
+
+    display: block;
+
+}
+
+.AirCross2 .module8w .module8n .swiper-pagination-bullet {
+
+    background-color: #ffffff !important;
+
+    opacity: 0.3;
+
+    margin-left: .30rem;
+
+}
+
+
+
+.AirCross2 .module8w .module8n .swiper-pagination-bullet-active {
+
+    background-color: #ffffff !important;
+
+    opacity: 1;
+
+}
+
+.AirCross2 .module8w .module8n .swiper-pagination-bullets {
+
+    left: 33% !important;
+
+    width: auto !important;
+
+}
+
+
+
+.AirCross2 .module9w{
+
+    width: 100%;
+
+    /* height: 10rem; */
+
+    background-color: #111216;
+
+    padding-bottom: 1.2rem;
+
+    position: relative;
+
+}
+.AirCross2 .module9w .AirCross2title{
+    margin: 0 auto;
+    text-align: center;
+}
+.AirCross2 .module9w .AirCross2describe{
+    margin: 0 auto;
+    text-align: center;
+}
+.AirCross2 .module9w .module9n{
+
+    width: 100%;
+
+    padding-top: 1rem;
+
+    /* padding-bottom: 2.77rem; */
+
+}
+
+.AirCross2 .module9w .module9n .swiper3{
+
+    width: 100%;
+
+    height: 9rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-container {
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .content{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .AirCross2describe{
+
+    margin-top: .38rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img1{
+
+    width: 10.21rem;
+
+    height: 6.02rem;
+
+    margin: 0 auto;
+
+    margin-top: .50rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img1 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img2{
+
+    width: 9.83rem;
+
+    height: 6.02rem;
+
+    margin: 0 auto;
+
+    margin-top: .80rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img2 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img3{
+
+    width: 8.85rem;
+
+    height: 5.47rem;
+
+    margin: 0 auto;
+
+    margin-top: 1.4rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img3 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-pagination-bullets {
+
+    right: 70px !important;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-pagination-bullet-active {
+
+    opacity: 1 !important;
+
+    background: #fff;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-pagination-bullet {
+
+    background: #fff;
+
+    opacity: 0.5;
+
+}
+
+
+
+
+
+
+
+
+
+.AirCross2 .module10w{
+
+    width: 100%;
+
+    /* height: 10rem; */
+
+    background-color: #0a0a0d;
+
+}
+
+.AirCross2 .module10w .module10n{
+
+    width: 14.40rem;
+
+    margin: 0 auto;
+
+    padding-top: 1.25rem;
+
+    padding-bottom: 1.22rem;
+
+}
+.AirCross2 .module10w .module10n .AirCross2title{
+
+    width: 12.34rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.AirCross2 .module10w .module10n .list{
+
+    margin-top: 2.13rem; 
+
+    width: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .list img{
+
+    /* margin-top: 2.13rem;  */
+
+    width: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .list li{
+
+    float: left;
+
+}
+
+.AirCross2 .module10w .module10n .list .img1{
+
+    width: 1.84rem;
+
+    height: 2.92rem;
+
+    margin-left: 1.74rem;
+
+    margin-top: .33rem;
+
+}
+
+.AirCross2 .module10w .module10n .list .img2{
+
+    width: 1.86rem;
+
+    height: 3.28rem;
+
+    margin-left: 1rem;
+
+    position: relative;
+
+    
+
+}
+
+.AirCross2 .module10w .module10n .list .img2 .ifocus{
+
+    position: absolute;
+
+    top: -.92rem;
+
+    left: 1.11rem;
+
+    width: 6.08rem;
+
+    /* height: 5.07rem; */
+
+    background: url(../img/10_6.png) no-repeat;
+
+    background-size: 100% 100%;
+
+    padding-bottom: .31rem;
+
+    display: none;
+
+    z-index: 100;
+
+}
+
+.AirCross2 .module10w .module10n .list .img2 .ifocus .ifocusname{
+
+    width: 5.11rem;
+
+    font-family: AdobeHeitiStd-Regular;
+
+	font-size: .36rem;
+
+	/* line-height: .72rem; */
+
+	letter-spacing: -.01rem;
+
+    color: #333333;
+
+    margin: 0 auto;
+
+    margin-top: .32rem;
+
+    margin-left: .64rem;
+
+}
+
+.AirCross2 .module10w .module10n .list .img2 .ifocus .ifocusdescribe{
+
+    width: 5.11rem;
+
+    font-family: OpenSans-Regular;
+
+	font-size: .18rem;
+
+	line-height: .30rem;
+
+	color: #333333;
+
+    margin-top: .24rem;
+
+    margin-left: .64rem;
+
+}
+
+.AirCross2 .module10w .module10n .list .img2 .ifocus .ifocusimg{
+
+    width: 5.45rem;
+
+    height: 2.91rem;
+
+    margin: 0 auto;
+
+    margin-top: .22rem;
+
+    margin-left: .47rem;
+
+}
+
+.AirCross2 .module10w .module10n .list .img2 .ifocus .ifocusimg img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .list .img3{
+
+    width: 1.61rem;
+
+    height: 2.99rem;
+
+    margin-left: .95rem;
+
+    margin-top: .32rem;
+
+    
+
+}
+
+
+
+.AirCross2 .module10w .module10n .list .img4{
+
+    width: 2.53rem;
+
+    height: 3.02rem;
+
+    margin-left: .82rem;
+
+    margin-top: .32rem;
+
+}
+
+.AirCross2 .module10w .module10n .list li img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .heng{
+
+    width: 11.22rem;
+
+    height: .90rem;
+
+    margin: 0 auto;
+
+    margin-top: .54rem;
+
+    position: relative;
+
+}
+
+.AirCross2 .module10w .module10n .heng img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .heng .moza{
+
+    position: absolute;
+
+    top: -4.77rem;
+
+    left: 1.11rem;
+
+    width: 5.8rem;
+
+    /* height: 5.07rem; */
+
+    background: url(../img/10_7.png) no-repeat;
+
+    background-size: 100% 100%;
+
+    padding-bottom: .60rem;
+
+    display: none;
+
+}
+
+.AirCross2 .module10w .module10n .heng .moza .mozaname{
+
+    width: 5.07rem;
+
+    font-family: AdobeHeitiStd-Regular;
+
+	font-size: .36rem;
+
+	/* line-height: .72rem; */
+
+	letter-spacing: -.01rem;
+
+    color: #333333;
+
+    margin: 0 auto;
+
+    margin-top: .45rem;
+
+    margin-left: .37rem;
+
+}
+
+.AirCross2 .module10w .module10n .heng .moza .mozadescribe{
+
+    width: 5.07rem;
+
+    font-family: OpenSans-Regular;
+
+	font-size: .18rem;
+
+	line-height: .30rem;
+
+	color: #333333;
+
+    margin-top: .16rem;
+
+    margin-left: .37rem;
+
+}
+
+.AirCross2 .module10w .module10n .heng .moza .mozaimg{
+
+    width: 5.45rem;
+
+    height: 2.91rem;
+
+    margin: 0 auto;
+
+    margin-top: .39rem;
+
+    margin-left: .18                          rem;
+
+}
+
+.AirCross2 .module10w .module10n .heng .moza .mozaimg img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+
+
+.AirCross2 .module11w{
+    background: #000000;
+
+    width: 100%;
+    /* background: url(../img/11_3.png) no-repeat; */
+
+    background-size: 100% auto;
+
+    position: relative;
+
+}
+.AirCross2 .module11w .AirCross2title{
+    margin: 0 auto;
+    text-align: center;
+}
+.AirCross2 .module11w .AirCross2describe{
+    margin: 0 auto;
+    text-align: center;
+}
+.AirCross2 .module11w .bjimg{
+
+    width: 100%;
+
+}
+
+.AirCross2 .module11w .bjimg img{
+
+    width: 100%;
+
+    height: auto;
+
+}
+
+.AirCross2 .module11w .module11n{
+
+    width: 14.40rem;
+    padding-top: 1rem;
+
+    /* padding-bottom: 1.22rem; */
+
+    position: absolute;
+
+    top: 0;
+
+    left: 2.42rem;
+
+}
+
+.AirCross2 .module11w .module11n .AirCross2describe{
+
+    margin-top: .38rem;
+
+}
+.AirCross2 .module11w .module11n .tupian{
+    width: 14.40rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+.AirCross2 .module11w .module11n .tupian li{
+    width: 7.00rem;
+	height: 4.68rem;
+	background-color: #000;
+    border-radius: .20rem;
+    position: relative;
+}
+.AirCross2 .module11w .module11n .tupian li img{
+    width: 100%;
+}
+.AirCross2 .module11w .module11n .tupian li .name{
+    font-size: .36rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .72rem;
+    letter-spacing: -0.9px;
+    position: absolute;
+    top: 3.7rem;
+    left: .52rem;
+    color: #ffffff;
+}
+.AirCross2 .module11w .module11n .tupian li .particulars{
+    font-size: .18rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .30rem;
+    letter-spacing: -0.9px;
+    position: absolute;
+    top: 3.1rem;
+    left: .52rem;
+    color: #333333;
+}
+.AirCross2 .module11w .module11n .tupian .li1{
+    float: left;
+}
+.AirCross2 .module11w .module11n .tupian .li2{
+    float: right;
+}
+.AirCross2 .module11w .module11n .tupian .li1 .name{
+    /* color: #333333; */
+}
+.AirCross2 .module11w .module11n .tupian .li2 .name{
+    /* color: #333333; */
+}
+.module14{
+    width: 100%;
+    background: #fff;
+    padding-top: .40rem;
+    padding-bottom: .50rem;
+}
+.buy{
+    width: 4.00rem;
+	height: .80rem;
+	background-color: #e30000;
+    border-radius: .08rem;
+    font-size: .30rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .80rem;
+	letter-spacing: .03rem;
+    color: #ffffff;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+
+
+
+
+/* 手机样式 */
+
+@media (max-width: 768px) {
+
+	/* 字体样式 */
+
+    .AirCross2title{
+
+        width: 6.50rem;
+
+        font-family: OpenSans-Bold;
+
+        font-size: .40rem;
+
+        line-height: .72rem;
+
+        letter-spacing: -.01rem;
+
+        color: #ffffff;
+
+        text-align: center;
+
+        margin: 0 auto;
+
+    }
+
+    .AirCross2describe{
+
+        width: 6.50rem;
+
+        font-family: OpenSans-Regular;
+
+        font-size: .20rem;
+
+        line-height: .30rem;
+
+        color: #ffffff;
+
+        text-align: center;
+
+        margin: 0 auto;
+
+    }
+    .AirCross2 .module12w{
+        width: 100%;
+        position: relative;
+    }
+    .AirCross2 .module12w .img{
+        width: 100%;
+    }
+    .AirCross2 .module12w .img img{
+        width: 100%;
+    }
+    .AirCross2 .module12w .text{
+        position: absolute;
+        top: 1.2rem;
+        left: 4rem;
+    }
+    .AirCross2 .module12w .text .name{
+        font-size: .40rem;
+        font-weight: normal;
+        font-stretch: normal;
+        letter-spacing: 0px;
+        color: #333333;
+    }
+    .AirCross2 .module12w .text .details{
+        font-size: .20rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: .28rem;
+        letter-spacing: 0px;
+        color: #333333;
+        margin-top: .10rem;
+    }
+    .AirCross2 .module13w{
+        width: 100%;
+        /* height: 10.80rem; */
+        position: relative;
+        background: #000;
+    }
+    .AirCross2 .module13w .bj{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .AirCross2 .module13w .module13n{
+        position: absolute;
+        top: 3rem;
+        left: 2.4rem;
+        font-size: .36rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: .40rem;
+        letter-spacing: 0px;
+        color: #fefbf6;
+        cursor: pointer;
+
+    }
+    .AirCross2 .module13w .module13n img{
+        width: .40rem;
+        height: .40rem;
+        margin-left: .20rem;
+    }
+    .fixation{
+        width: 100%;
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    .AirCross2 .module1w{
+        width: 100%;
+        position: relative;
+        background: #000;
+        height: 14rem;
+    }
+    .AirCross2 .module1w .bj{
+        width: 100%;
+    }
+    
+    .AirCross2 .module1w .module1n{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .AirCross2 .module1w .module1n .left{
+       width: 100%;
+       margin-top: 1rem;
+    }
+    .AirCross2 .module1w .module1n .AirCross2title{
+    
+        margin-top: 1.20rem;
+        text-align: center;
+        width: 6.5rem;
+        margin: 0 auto;
+    }
+    
+    .AirCross2 .module1w .module1n .AirCross2describe{
+        text-align: center;
+        width: 6.5rem;
+        margin: 0 auto;
+        margin-top: .38rem;
+    
+    }
+    
+    .AirCross2 .module1w .module1n .machine{
+    
+        width: 5rem;
+        margin: 0 auto;
+    
+        padding-top: .5rem;
+    }
+    
+    .AirCross2 .module1w .module1n .machine li{
+        float: left;
+        transition: all 0.3s ease;
+        margin-right: .95rem;
+    }
+    .AirCross2 .module1w .module1n .machine li:nth-child(2){
+        margin-right: 0;
+    }
+    .AirCross2 .module1w .module1n .machine .li1 .up{
+    
+        font-family: OpenSans-Regular;
+    
+        font-size: .24rem;
+    
+        line-height: .36rem;
+    
+        color: #ffffff;
+    
+        opacity: 0.6;
+    
+    }
+    
+    .AirCross2 .module1w .module1n .machine .li .down{
+    
+        margin-top: .2rem;
+    
+    }
+    
+    .AirCross2 .module1w .module1n .machine .li1 .down span:nth-child(1){
+    
+        font-family: OpenSans-Bold;
+    
+        font-size: 1.00rem;
+    
+        line-height: .36rem;
+    
+        color: #ffffff;
+    
+    }
+    
+    .AirCross2 .module1w .module1n .machine .li1 .down span:nth-child(2){
+    
+        font-family: OpenSans-Regular;
+    
+        font-size: .24rem;
+    
+        line-height: .36rem;
+    
+        color: #ffffff;
+    
+        opacity: 0.6;
+    
+    }
+    .AirCross2 .module1w .module1n .colour{
+        width: 5.2rem;
+        margin: 0 auto;
+        margin-top: .5rem;
+    }
+    .AirCross2 .module1w .module1n .colour li{
+        float: left;
+        margin-right: .95rem;
+    }
+    .AirCross2 .module1w .module1n .colour li:nth-child(2){
+        margin-right: 0;
+    }
+    .AirCross2 .module1w .module1n .colour li .up{
+        width: .60rem;
+        height: .60rem;
+        border-radius: 50%;
+        margin: 0 auto;
+        border: solid .02rem transparent;
+    }
+    .module1wactive{
+        border: solid .02rem #e30000 !important;
+    }
+    .AirCross2 .module1w .module1n .colour li .up img{
+        width: .40rem;
+        height: .40rem;
+        margin-top: .10rem;
+        margin-left: .10rem;
+    }
+    .AirCross2 .module1w .module1n .colour li .down{
+        font-size: 24px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 72px;
+        letter-spacing: 0px;
+        color: #ffffff;
+    }
+    .AirCross2 .module1w .module1n .right{
+        width: 100%;
+        margin-top: .4rem;
+        margin-left: 0;
+        float: left;
+    }
+    .AirCross2 .module1w .module1n .right img{
+        width: 3rem;
+        margin: 0 auto;
+    }
+    
+    .AirCross2 .module1w .module1n .machine .img img{
+    
+        width: 100%;
+    
+        height: 100%;
+    
+    }
+    .AirCross2 .module1w .module1n .hint1{
+        font-size: 24px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 30px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        margin-top: 70px;
+        text-align: center;
+        padding-bottom: 94px;
+    }
+
+.AirCross2 .module2w{
+
+    width: 100%;
+
+    background: url(../img/2.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module2w .module2n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top: .8rem;
+
+    padding-bottom: .8rem;
+
+    flex-wrap: wrap;
+
+}
+
+
+
+.AirCross2 .module2w .module2n .AirCross2title{
+
+    /* width: 6.27rem;
+
+    text-align:left; */
+
+}
+
+.AirCross2 .module2w .module2n .AirCross2describe{
+
+    width: 6.5rem;
+
+    margin-top: .43rem;
+
+}
+
+.skip{
+
+    width: 100%;
+
+    font-size: 12px;
+
+    text-align: center;
+
+}
+
+.AirCross2 .module2w .module2n .right{
+
+    width: 6.2rem;
+
+    height: 6.74rem;
+
+    margin-top: .68rem;
+
+}
+
+.AirCross2 .module2w .module2n .right img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module2w .module2n .gif1{
+
+    width: 6.27rem;
+
+    height: 3.18rem;
+
+    margin-top:.75rem; 
+
+}
+
+.AirCross2 .module2w .module2n .gif1 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+
+
+
+
+.AirCross2 .module3w{
+
+    width: 100%;
+
+    background-color: #000000;
+
+}
+
+.AirCross2 .module3w .module3n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top: .79rem;
+
+    padding-bottom: .80rem;
+
+}
+
+
+
+.AirCross2 .module3w .module3n .AirCross2describe{
+
+    margin-top: .43rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1{
+
+    width: 100%;
+
+    height: 5rem;
+
+    margin-top: .58rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide{
+
+    width: 100%;
+
+    height: 5rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img1{
+
+    width: 3rem;
+
+    height: auto;
+
+    margin: 0 auto;
+
+    margin-top: .57rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img1 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img2{
+
+    width: 5.31rem;
+
+    height: auto;
+
+    margin: 0 auto;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-slide .img2 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-pagination-bullets {
+
+    bottom: 0;
+
+    left: -.5rem;
+
+    width: 100%;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-pagination-bullet {
+
+    width: 2rem;
+
+    height: .74rem;
+
+    display: inline-block;
+
+    border-radius:0;
+
+    background: transparent;
+
+    /* opacity: 0.2; */
+
+    line-height: .74rem;
+
+    border-bottom: .03rem solid rgba(255, 255, 255, .3);
+
+    opacity: 1;
+
+    margin-left: 1.1rem;
+
+}
+
+.AirCross2 .module3w .module3n .swiper1 .swiper-pagination-bullet-active{
+
+    border-bottom: .03rem solid rgba(255, 255, 255, 1);
+
+    opacity: 1;
+
+}
+
+.AirCross2 .module3w .module3n .subtitle{
+
+    position: absolute;
+
+    text-align: center;
+
+    -webkit-transition: 300ms opacity;
+
+    -o-transition: 300ms opacity;
+
+    transition: 300ms opacity;
+
+    -webkit-transform: translate3d(0, 0, 0);
+
+    transform: translate3d(0, 0, 0);
+
+    z-index: 1;
+
+    bottom: .3rem;
+
+    left: 0;
+
+    width: 100%;
+
+    left: -.5rem;
+
+}
+
+.AirCross2 .module3w .module3n .subtitle li{
+
+    width: 2rem;
+
+    height: .74rem;
+
+    display: inline-block;
+
+    border-radius: 0;
+
+    background: transparent;
+
+    /* opacity: 0.2; */
+
+    line-height: .74rem;
+
+    opacity: 1;
+
+    margin-left: 1.1rem;
+
+    font-family: AdobeHeitiStd-Regular;
+
+	font-size: .20rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.006rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module3w .module3n .subtitle li:nth-child(2){
+
+    margin-left: .9rem;
+
+}
+
+
+
+
+
+
+
+.AirCross2 .module4w{
+
+    width: 100%;
+
+    height: 10.5rem;
+
+    background-color: #111216;
+
+}
+
+.AirCross2 .module4w .module4n{
+
+    width: 100%;
+
+    /* height: 12rem; */
+
+    margin: 0 auto;
+
+    padding-top: .81rem;
+
+    /* padding-bottom: 1.8rem; */
+
+}
+
+.AirCross2 .module4w .module4n .AirCross2title{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    text-align: left;
+
+}
+
+.AirCross2 .module4w .module4n .AirCross2describe{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    text-align: left;
+
+    margin-top: .42rem;
+
+}
+
+
+
+.AirCross2 .module4w .module4n .Modelist{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    margin-top: .48rem;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li{
+
+    /* float: left;
+
+    margin-right: .54rem; */
+
+}
+
+
+
+.AirCross2 .module4w .module4n .Modelist li .up{
+
+    margin: 0 auto;   
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li .up img{
+
+    width: 100%;
+
+    height: 100%; 
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li .up1{
+
+    width: .72rem;
+
+    height: .72rem;
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li .up2{
+
+    width: .91rem;
+
+    height: .70rem;
+
+    margin-top: .01rem;
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li .up3{
+
+    width: .80rem;
+
+    height: .66rem;
+
+    margin-top: .06rem;
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li .up4{
+
+    width: .64rem;
+
+    height: .40rem;
+
+    margin-top: .15rem;
+
+}
+
+.AirCross2 .module4w .module4n .video{
+
+    width: 100%;
+
+    height: 3.49rem;
+
+    margin-top: .88rem;
+
+}
+
+
+
+.AirCross2 .module4w .module4n .Modelist li .down{
+
+	font-family: OpenSans-Regular;
+
+	font-size: .20rem;
+
+	line-height: .30rem;
+
+    color: #ffffff;
+
+    margin-top: .26rem;
+
+}
+
+.AirCross2 .module4w .module4n .Modelist li .down4{
+
+    margin-top: .43rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2{
+
+    width: 100%;
+
+    height: 8.02rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container{
+
+    width: 100%;
+
+    height: 8.02rem;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-wrapper{
+
+    width: 100%;
+
+    height: 8.02rem;
+
+    /* margin-left: .41rem; */
+
+    margin-top: 0;
+
+}
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide{
+
+    width: 5.88rem;
+
+    /* height: 8.02rem !important; */
+
+    height: 9rem !important;
+
+    margin-right: .10rem;
+
+    margin-top: 0;
+
+}
+
+
+
+
+
+.AirCross2 .module4w .module4n .swiper2 .swiper-container .swiper-slide .right .Modelist li .down{
+
+	font-family: OpenSans-Regular;
+
+	font-size: .22rem;
+
+	line-height: .30rem;
+
+    color: #ffffff;
+
+    margin-top: .26rem;
+
+}
+.AirCross2 .module4w .module4n .swiper2 .swiper-pagination-bullets {
+    right: 3rem !important;
+}
+
+
+
+
+
+
+
+
+.AirCross2 .module4w .fenye {
+
+    width: 100%;
+
+    height: .50rem;
+
+    position: relative;
+
+}
+
+
+
+.AirCross2 .module4w .swiper-pagination {
+
+    height: .50rem !important;
+
+    /* position: relative; */
+
+    margin-left: 35%;
+
+    position: none;
+
+}
+
+.AirCross2 .module4w .swiper-pagination-bullet {
+
+    background-color: #ffffff !important;
+
+    opacity: 0.3;
+
+    margin-left: .30rem;
+
+}
+
+
+
+.AirCross2 .module4w .swiper-pagination-bullet-active {
+
+    background-color: #ffffff !important;
+
+    opacity: 1;
+
+}
+
+
+
+
+
+
+
+.AirCross2 .module5w{
+
+    width: 100%;
+
+    background: url(../img/5.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module5w .module5n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top:0;
+
+    padding-bottom: .90rem;
+
+    
+
+}
+
+.AirCross2 .module5w .module5n li{
+
+    margin-top: 0;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+}
+
+.AirCross2 .module5w .module5n li .left{
+
+    width: 100%;
+
+}
+
+.AirCross2 .module5w .module5n li .right{
+
+    width: 100%;
+
+    margin-top: .72rem;
+
+}
+
+.AirCross2 .module5w .module5n li .AirCross2title{
+
+    width: 100%;
+
+    margin-top: .90rem;
+
+    text-align: center;
+
+}
+
+.AirCross2 .module5w .module5n li .AirCross2describe{
+
+    width: 100%;
+
+    /* margin-top: 50rem; */
+
+    text-align: left;
+
+}
+
+
+
+.AirCross2 .module6w{
+
+    width: 100%;
+
+    background-color: #111216;
+
+}
+
+.AirCross2 .module6w .module6n{
+
+    width: 100%;
+
+    margin: 0 auto;
+
+    padding-top: .80rem;
+
+    padding-bottom: 1.20rem;
+
+}
+
+.AirCross2 .module6w .module6n .AirCross2title{
+
+
+
+}
+
+.AirCross2 .module6w .module6n .AirCross2describe{
+
+    margin-top: .52rem;
+
+}
+
+.AirCross2 .module6w .module6n .swiper3{
+
+    width: 100%;
+
+    margin-top: .66rem;
+
+}
+
+
+
+.AirCross2 .module6w .module6n .swiper3 .swiper-wrapper{
+
+    width: 100%;
+
+    margin-left: .30rem;
+
+}
+
+.AirCross2 .module6w .module6n .swiper3 .swiper-wrapper .swiper-slide{
+
+    width: 5.88rem;
+
+	/* height: 3.05rem; */
+
+}
+
+.AirCross2 .module6w .module6n .swiper3 .swiper-wrapper .swiper-slide .video{
+
+    width: 5.88rem;
+
+	height: 3.05rem;
+
+}
+
+.AirCross2 .module6w .module6n .swiper3 .swiper-wrapper .swiper-slide .name{
+
+    width: 5.88rem;
+
+    text-align: center;
+
+    margin-top: .30rem;
+
+	font-family: AdobeHeitiStd-Regular;
+
+	font-size: .30rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.01rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module6w .module6n .fenye {
+
+    width: 100%;
+
+    height: .50rem;
+
+    position: relative;
+
+}
+
+
+
+.AirCross2 .module6w .module6n .swiper-pagination {
+
+    height: .50rem !important;
+
+    /* position: relative; */
+
+    margin-left: 35%;
+
+    position: none;
+
+}
+
+.AirCross2 .module6w .module6n .swiper-pagination-bullet {
+
+    background-color: #ffffff !important;
+
+    opacity: 0.3;
+
+    margin-left: .30rem;
+
+}
+
+
+
+.AirCross2 .module6w .module6n .swiper-pagination-bullet-active {
+
+    background-color: #ffffff !important;
+
+    opacity: 1;
+
+}
+
+
+
+
+
+.AirCross2 .module7w{
+
+    width: 100%;
+
+    height: 9.83rem;
+
+    background: url(../img/7_8.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module7w .module7n{
+
+    width: 6.5rem;
+
+    /* height: 9.83rem; */
+
+    margin: 0 auto;
+
+    padding-top: .2rem;
+
+    /* padding-bottom: 2.77rem; */
+
+}
+
+.AirCross2 .module7w .module7n .AirCross2title{
+
+    width: 100%;
+
+    text-align: center;
+
+    margin: 0;
+
+}
+
+.AirCross2 .module7w .module7n .AirCross2describe{
+
+    width: 100%;
+
+    text-align: center;
+
+    margin: 0;
+
+    margin-top: .13rem; 
+
+}
+
+.AirCross2 .module7w .module7n .element{
+
+    margin-top: .22rem;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.AirCross2 .module7w .module7n .element li{
+
+    float: none;
+
+    margin-right: 0;
+
+    /* width: 2rem; */
+
+}
+
+.AirCross2 .module7w .module7n .element li .up{
+
+    margin: 0 auto;   
+
+}
+
+.AirCross2 .module7w .module7n .element li .up img{
+
+    width: 100%;
+
+    height: 100%; 
+
+}
+
+.AirCross2 .module7w .module7n .element li .up1{
+
+    width: .77rem;
+
+    height: .77rem;
+
+    margin-top: .03rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .up2{
+
+    width: .72rem;
+
+    height: .54rem;
+
+    margin-top: .16rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .up3{
+
+    width: .44rem;
+
+    height: .81rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .down{
+
+	font-family: OpenSans-Regular;
+
+	font-size: .20rem;
+
+    color: #ffffff;
+
+    /* margin-top: .27rem; */
+
+}
+
+.AirCross2 .module7w .module7n .element li .down1{
+
+    margin-top: .27rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .down2{
+
+    margin-top: .37rem;
+
+}
+
+.AirCross2 .module7w .module7n .element li .down3{
+
+    margin-top: .26rem;
+
+}
+
+
+
+.AirCross2 .module8w{
+
+    width: 100%;
+
+    height: 10rem;
+
+    background: url(../img/8_6.png) no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+.AirCross2 .module8w .module8n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top: .8rem;
+
+    /* padding-bottom: 2.77rem; */
+
+    position: absolute;
+
+    left: .5rem;
+
+}
+
+.AirCross2 .module8w .module8n .AirCross2title{
+
+    
+
+}
+
+.AirCross2 .module8w .module8n .swiper10{
+
+    margin-top: .44rem;
+
+    width: 6.5rem;
+
+}
+
+.AirCross2 .module8w .module8n .swiper10 .swiper-slide{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module8w .module8n .auto{
+
+    margin-top: 0;
+
+    margin-left: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module8w .module8n .auto  .autotitle{
+
+    font-family: OpenSans-SemiBold;
+
+	font-size: .30rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.01rem;
+
+	color: #ffffff;
+
+}
+
+.AirCross2 .module8w .module8n .auto .autodescribe{
+
+    font-family: OpenSans-Regular;
+
+	font-size: .20rem;
+
+	line-height: .30rem;
+
+    color: #ffffff;
+
+    margin-top: .32rem;
+
+}
+
+.AirCross2 .module8w .module8n .auto .list{
+
+    margin-top: .35rem;
+
+    width: 1.93rem;
+
+    margin-left: 3.9rem;
+
+}
+
+.AirCross2 .module8w .module8n .auto .list li{
+
+    width: 1.93rem;
+
+    height: 1.09rem;
+
+    margin-bottom: .27rem;
+
+    float: none;
+
+}
+
+.AirCross2 .module8w .module8n .auto .list li img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+.sjauto1{
+
+    /* display: block; */
+
+}
+
+.sjauto2{
+
+    margin-top: 1.06rem;
+
+}
+
+.sjauto3{
+
+    margin-top: 1.6rem;
+
+}
+
+.AirCross2 .module8w .module8n .fenye {
+
+    width: 100%;
+
+    height: .50rem;
+
+    position: relative;
+
+    margin-top: 0;
+
+}
+
+
+
+.AirCross2 .module8w .module8n .swiper-pagination {
+
+    height: .50rem !important;
+
+    /* position: relative; */
+
+    margin-left: 35%;
+
+    position: none;
+
+}
+
+.AirCross2 .module8w .module8n .swiper-pagination-bullet {
+
+    background-color: #ffffff !important;
+
+    opacity: 0.3;
+
+    margin-left: .30rem;
+
+    margin-bottom: .9rem;
+
+}
+
+
+
+.AirCross2 .module8w .module8n .swiper-pagination-bullet-active {
+
+    background-color: #ffffff !important;
+
+    opacity: 1;
+
+}
+
+
+
+
+
+
+
+.AirCross2 .module9w{
+
+    width: 100%;
+
+    height: 9.5rem;
+
+    background-color: #111216;
+
+}
+
+.AirCross2 .module9w .module9n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top: .82rem;
+
+    height: 8rem;
+
+    /* padding-bottom: .70rem; */
+
+}
+
+.AirCross2 .module9w .module9n .swiper3{
+
+    height: 8rem;
+
+    width: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-container {
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .AirCross2describe{
+
+    margin-top: .42rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img1{
+
+    width: 6.5rem;
+
+    height: 4.3rem;
+
+    margin: 0 auto;
+
+    margin-top: .74rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img1 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img2{
+
+    width: 6.5rem;
+
+    height: 4.3rem;
+
+    margin: 0 auto;
+
+    margin-top: .74rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img2 img{
+
+    width: 100%;
+
+    height: 100%;
+
+    
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img3{
+
+    width: 6.5rem;
+
+    height: 4.02rem;
+
+    margin: 0 auto;
+
+    margin-top: .61rem;
+
+}
+
+.AirCross2 .module9w .module9n .swiper3 .swiper-slide .img3 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+.AirCross2 .module9w .module9n .fenye {
+
+    width: 100%;
+
+    height: .50rem;
+
+    position: relative;
+
+}
+
+
+
+.AirCross2 .module9w .module9n .swiper-pagination {
+
+    height: .50rem !important;
+
+    /* position: relative; */
+
+    margin-left: 35%;
+
+    position: none;
+
+}
+
+.AirCross2 .module9w .module9n .swiper-pagination-bullet {
+
+    background-color: #ffffff !important;
+
+    opacity: 0.3;
+
+    margin-left: .30rem;
+
+    margin-bottom: 1rem;
+
+}
+
+
+
+.AirCross2 .module9w .module9n .swiper-pagination-bullet-active {
+
+    background-color: #ffffff !important;
+
+    opacity: 1;
+
+}
+.AirCross2 .module9w .module9n .swiper3 .swiper-pagination-bullets {
+    right: 2.5rem !important;
+}
+
+
+
+
+
+
+.AirCross2 .module10w{
+
+    width: 100%;
+
+    /* height: 10rem; */
+
+    background-color: #0a0a0d;
+
+    padding-bottom: .53rem;
+
+}
+
+.AirCross2 .module10w .module10n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top: .79rem;
+
+    padding-bottom: .53rem;
+
+}
+
+.AirCross2 .module10w .module10n .AirCross2title{
+
+    width: 6.5rem;
+
+    
+
+}
+
+.AirCross2 .module10w .module10n .AirCross2describe{
+
+    width: 6.5rem;
+
+    margin-top: .43rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10{
+
+    width: 100%;
+
+    margin-top: .53rem;
+
+    height: 7.5rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper{
+
+    width: 100%;
+
+    height: 100%;
+
+    /* margin-left: .85rem; */
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide{
+
+    width: 5.80rem;
+
+	height: 7rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box{
+
+    width: 5.80rem;
+
+	height: 7rem;
+
+	background-color: #e5e5e5;
+
+	border-radius: .06rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .name{
+
+    width: 5.05rem;
+
+    margin: 0 auto;
+
+    margin-top: .38rem;
+
+    font-family: OpenSans-Bold;
+
+	font-size: .30rem;
+
+	line-height: .72rem;
+
+	letter-spacing: -.01rem;
+
+	color: #333333;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .boxdescribe{
+
+    width: 5.05rem;
+
+    margin: 0 auto;
+
+    margin-top: .17rem;
+
+    font-family: OpenSans-Regular;
+
+	font-size: .20rem;
+
+	line-height: .30rem;
+
+	color: #333333;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img{
+
+    margin-top: .22rem;
+
+}
+
+/* .AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img img{
+
+    width: 100%;
+
+    height: 100%;
+
+} */
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img1{
+
+    width: 5.43rem;
+
+    height: 3.74rem;
+
+    margin: 0 auto;
+
+    margin-top: .22rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img1 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img2{
+
+    width: 5.24rem;
+
+    height: 3.74rem;
+
+    margin: 0 auto;
+
+    margin-top: .22rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img2 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img3{
+
+    width: 5.43rem;
+
+    height: 4.73rem;
+
+    margin: 0 auto;
+
+    margin-top: .22rem;
+
+}
+
+.AirCross2 .module10w .module10n .swiper10 .swiper-container .swiper-wrapper .swiper-slide .box .img3 img{
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+.AirCross2 .module10w .module10n .fenye {
+
+    width: 100%;
+
+    height: .50rem;
+
+    position: relative;
+
+}
+
+
+
+.AirCross2 .module10w .module10n .swiper-pagination {
+
+    height: .50rem !important;
+
+    /* position: relative; */
+
+    margin-left: 35%;
+
+    position: none;
+
+}
+
+.AirCross2 .module10w .module10n .swiper-pagination-bullet {
+
+    background-color: #ffffff !important;
+
+    opacity: 0.3;
+
+    margin-left: .30rem;
+
+    margin-bottom: .5rem;
+
+}
+
+
+
+.AirCross2 .module10w .module10n .swiper-pagination-bullet-active {
+
+    background-color: #ffffff !important;
+
+    opacity: 1;
+
+}
+
+
+
+
+
+
+
+
+
+.AirCross2 .module11w{
+
+    width: 100%;
+
+    height: 14rem;
+
+    /* background: url(../img/11_4.png) no-repeat;
+
+    background-size: 100% 100%; */
+    background: #000;
+
+}
+
+.AirCross2 .module11w .module11n{
+
+    width: 6.5rem;
+
+    margin: 0 auto;
+
+    padding-top: .2rem;
+
+    /* padding-bottom: 1.22rem; */
+
+    position: absolute;
+
+    left: .5rem;
+
+}
+
+
+.AirCross2 .module11w .module11n .AirCross2describe{
+
+    margin-top: .33rem;
+
+}
+
+
+.AirCross2 .module11w .module11n .tupian{
+    width: 6.9rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+.AirCross2 .module11w .module11n .tupian li{
+    width: 6.5rem;
+    border-radius: .20rem;
+    position: relative;
+    margin-bottom: .30rem;
+    background: #000;
+}
+.AirCross2 .module11w .module11n .tupian li img{
+    width: 100%;
+}
+.AirCross2 .module11w .module11n .tupian li .name{
+    font-size: .36rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .72rem;
+    letter-spacing: -0.9px;
+    position: absolute;
+    top: 3.4rem;
+    left: .52rem;
+    color: #ffffff;
+}
+.AirCross2 .module11w .module11n .tupian li .particulars{
+    font-size: .18rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: .30rem;
+    letter-spacing: -0.9px;
+    position: absolute;
+    top: 3.1rem;
+    left: .52rem;
+    color: #333333;
+}
+.AirCross2 .module11w .module11n .tupian .li1{
+    float: left;
+}
+.AirCross2 .module11w .module11n .tupian .li2{
+    float: left;
+}
+.AirCross2 .module11w .module11n .tupian .li1 .name{
+    /* color: #333333; */
+}
+.AirCross2 .module11w .module11n .tupian .li2 .name{
+    /* color: #333333; */
+}
+}
+/* 弹出视频播放的样式 */
+.indexmengceng {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 10011;
+    background: rgba(0, 0, 0, 0.8);
+
+}
+
+.indexmengceng .shiping{
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.indexmengceng .shiping video {
+    max-height: 8.00rem;
+    background: #000;
+}
+.shiping .indexclose {
+    cursor: pointer;
+    position: absolute;
+    top: -.70rem;
+    right: -.20rem;
+    display: inline-block;
+    width: .30rem;
+    height: .20rem;
+}
+.shiping .indexclose img{
+    width: 100%;
+}
+.hide {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+
+	html {
+
+        font-size: calc(100vw/19.20);
+
+    }
+
+    /* body {
+
+        font-size: .24rem;
+
+    } */
+
+    .AirCross2pc{
+
+        display: block;
+
+    }
+
+    .AirCross2mobile{
+
+        display: none;
+
+    }
+
+}
+
+
+
+/* 手机端 */
+
+@media (max-width: 768px) {
+
+    html {
+
+        font-size: calc(100vw/7.5);
+
+    }
+
+	.AirCross2pc{
+
+        display: none;
+
+    }
+
+    .AirCross2mobile{
+
+        display: block;
+
+    }
+
+}
+
+.pro_content .range {
+
+    padding: 0;
+ 
+    max-width: none;
+
+}

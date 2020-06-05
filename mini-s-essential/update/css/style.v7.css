@@ -1,0 +1,325 @@
+*{margin: 0px;padding: 0px;list-style: none;}
+
+.clear{clear: both;}
+
+.central { width: 100%; position: relative;}
+
+.central img{width: auto;height: auto;max-width: 100%;}
+
+.central1,.central1>img{width: 100%;position: relative;}
+
+.central2 {position: relative;width: 100%}
+
+.central2 img {width: 100%}
+
+.central3, .central3>img {width: 100%; position: relative;}
+
+.central4, .central4>img {width: 100%; position: relative;}
+
+.central5, .central5>img {width: 100%; position: relative;}
+
+.central6, .central6>img {width: 100%; position: relative;}
+
+.central7 {width: 100%; position: relative;}
+
+.central7 img {width: 100%;}
+
+.central8, .central8>img{width: 100%; position: relative;}
+
+/* 第一部分 */
+
+/* 正常屏幕 */
+@media (min-width: 1200px){
+  /* one */
+  .centralright {position: absolute;width: 50%;height: 130px;right: 6%;bottom: 30%;font-size: 27px;display: flex;}
+  .centralright02 {position: absolute;width: 50%;height: 130px;right: 6%;bottom: 10%;font-size: 27px;display: flex;}
+  .centralright02 img{width: 100%}
+  .centralright img {width: 100%; height: auto;}
+  .centralList {width: 100%; height: auto;}
+  .list-box {width: 100px;}
+  .list-top {display: flex;justify-content: space-around;width: 100%;}
+  .lastImg {}
+  .text01{ position: absolute;bottom: -30px;color: rgb(96,174,242)}
+  .text02{ position: absolute;bottom: -30px;color: rgb(88,83,206)}
+  .text03{ position: absolute;bottom: -30px;color: rgb(177,55,134)}
+  .text04{ position: absolute;bottom: -30px;color: rgb(210,50,102)}
+  /* two */
+  .bg02-box{width: 40%; height:auto;position: absolute; top: 15%;left: 15%;}
+  .bg02-title {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg02-text {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+  .bg02-box02{width: 35%; height:auto;position: absolute; top: 58%;left: 60%;}
+  .bg02-title02 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg02-text02 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+  .bg02-box_ {position: absolute;top: 5%;right:10%; width:30%}
+  /* three */
+  .bg03-box{width: 39%; height:auto;position: absolute; top: 8%;left: 2%;}
+  .bg03-title {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg03-text {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+  .bg03-box02{width: 40%; height:auto;position: absolute; top: 29%;left: 60%;}
+  .bg03-title02 {color: #000000;text-indent: -30px;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg03-text02 {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg04-box03{width: 28%; height:auto;position: absolute; top: 50%;left: 8%;}
+  .bg04-title {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg04-text {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+  .bg05-box03{width: 30%; height:auto;position: absolute; top: 69%;left: 60%;}
+  .bg05-title {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg06-box03{width: 100%; height:auto;position: absolute; top: 80%;text-align: center;}
+  .bg06-title06 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text06 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+  /* four */
+  .bg04-box04{width: 100%; height:auto;position: absolute; top: 10%;text-align: center;}
+  .bg04-title4 {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg04-text4 {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+  /* five */
+  .bg05-box05{width: 43%; height:auto;position: absolute; top: 25%;left: 8%;}
+  .bg05-title5 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text5 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg05-box-1{width: 100%; height:auto;position: absolute; top: 47%;left: 60%;}
+  .bg05-title-1 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text-1 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  .bg05-box-2{width: 50%; height:auto;position: absolute; bottom: 8%;left: 1%;text-align: center;}
+  .bg05-title-2 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text-2 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+  /* six */
+  .bg06-box{width: 100%; height:auto;position: absolute; top: 4%;text-align: center;}
+  .bg06-title {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg06-box01{width: 43%; height:auto;position: absolute; top: 5%;left: 18.7%;}
+  .bg06-title01 {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text01 {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+  .bg06-btn {width: 400px;text-align: center;height:40px;line-height: 40px; margin-top: 15px; color: rgb(157,157,157);font-size: 24px;border: 1px solid rgb(157,157,157);border-radius: 15px; font-family: "OpenSans-Regular";}
+
+  .bg06-box02{width: 43%; height:auto;position: absolute; bottom: 3%;left: 18.7%;}
+  .bg06-title02 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text02 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .empty{ height: 10px;}
+  /* seven */
+  .central7{height: 1400px;}
+  .bg07-box{width: 100%; height:auto;position: absolute; top: 4%;text-align: center;}
+  .bg07-title {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg07-text {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg07-list-box {width: 1000px;display:flex;flex-wrap: wrap;justify-content: space-around; position: absolute; top: 25%;left: 50%;transform: translate(-50%);}
+  .bg07-div {width: 320px;}
+  .bg07-text01 {height:45px;line-height:45px;font-size: 24px;margin-top:15px;text-align: center; background: rgb(236,235,235)}
+
+  .bg07-img {height:408px;margin-top: 30px;}
+  /* eight */
+  .bg08-box{width: 43%; height:auto;position: absolute; top: 2%;left: 25.7%;}
+  .bg08-title {font-weight: bolder;color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+
+  .bg08-box01{width: 100%; height:auto;position: absolute; bottom: 10%;text-align: center;}
+  .bg08-title01 {color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+}
+
+/* pc小屏幕 */
+@media (max-width: 1200px) and (min-width: 768px){
+  /* one */
+  .centralright {position: absolute;width: 50%;height: 130px;right: 6%;bottom: 30%;font-size: 27px;display: flex;}
+  .centralright02 {position: absolute;width: 50%;height: 130px;right: 6%;bottom: 10%;font-size: 27px;display: flex;}
+  .centralright02 img{width: 100%}
+  .centralright img {width: 100%; height: auto;}
+  .centralList {width: 100%; height: auto;}
+  .list-box {width: 100px;}
+  .list-top {display: flex;justify-content: space-around;width: 100%;}
+  .lastImg {}
+  .text01{ position: absolute;bottom: -15px;color: rgb(96,174,242)}
+  .text02{ position: absolute;bottom: -15px;color: rgb(88,83,206)}
+  .text03{ position: absolute;bottom: -15px;color: rgb(177,55,134)}
+  .text04{ position: absolute;bottom: -15px;color: rgb(210,50,102)}
+  /* two */
+  .bg02-box{width: 40%; height:auto;position: absolute; top: 15%;left: 15%;}
+  .bg02-title {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg02-text {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+  .bg02-box02{width: 35%; height:auto;position: absolute; top: 58%;left: 60%;}
+  .bg02-title02 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg02-text02 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}
+  .bg02-box_ {position: absolute;top: 5%;right:10%; width:30%}
+  /* three */
+  .bg03-box{width: 40%; height:auto;position: absolute; top: 8%;left: 2%;}
+  .bg03-title {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg03-text {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+  .bg03-box02{width: 40%; height:auto;position: absolute; top: 29%;left: 60%;}
+  .bg03-title02 {color: #000000;text-indent: -30px;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg03-text02 {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  .bg04-box03{width: 28%; height:auto;position: absolute; top: 50%;left: 8%;}
+  .bg04-title {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg04-text {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+  .bg05-box03{width: 30%; height:auto;position: absolute; top: 69%;left: 60%;}
+  .bg05-title {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  .bg06-box03{width: 100%; height:auto;position: absolute; top: 80%;text-align: center;}
+  .bg06-title06 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text06 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  /* four */
+  .bg04-box04{width: 100%; height:auto;position: absolute; top: 10%;text-align: center;}
+  .bg04-title4 {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg04-text4 {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+  /* five */
+  .bg05-box05{width: 43%; height:auto;position: absolute; top: 29%;left: 8%;}
+  .bg05-title5 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text5 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  .bg05-box-1{width: 100%; height:auto;position: absolute; top: 47%;left: 60%;}
+  .bg05-title-1 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text-1 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  .bg05-box-2{width: 50%; height:auto;position: absolute; bottom: 8%;left: 1%;text-align: center;}
+  .bg05-title-2 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg05-text-2 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}    
+
+  /* six */
+  .bg06-box{width: 100%; height:auto;position: absolute; top: 4%;text-align: center;}
+  .bg06-title {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+
+  .bg06-box01{width: 43%; height:auto;position: absolute; top: 2%;left: 18.7%;}
+  .bg06-title01 {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text01 {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}  
+  .bg06-btn {width: 400px;text-align: center;height:40px;line-height: 40px; margin-top: 15px; color: rgb(157,157,157);font-size: 24px;border: 1px solid rgb(157,157,157);border-radius: 15px; font-family: "OpenSans-Regular";}  
+
+  .bg06-box02{width: 43%; height:auto;position: absolute; bottom: 40px;left: 18.7%;}
+  .bg06-title02 {color: #ffffff;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg06-text02 {margin-top: 15px; color: #ffffff;font-size: 24px;font-family: "OpenSans-Regular";}  
+  /* seven */
+  .central7{height: 2000px;}
+  .bg07-box{width: 100%; height:auto;position: absolute; top: 4%;text-align: center;}
+  .bg07-title {color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+  .bg07-text {margin-top: 15px; color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg07-list-box {width: 700px;display:flex;flex-wrap: wrap;justify-content: space-around; position: absolute; top: 25%;left: 50%;transform: translate(-50%);}
+  .bg07-div {width: 320px;}
+  .bg07-text01 {height:45px;line-height:45px;font-size: 24px;margin-top:15px;text-align: center; background: rgb(236,235,235)}
+
+  .bg07-img {height:408px;margin-top: 30px;} 
+
+   /* eight */
+   .bg08-box{width: 43%; height:auto;position: absolute; top: 2%;left: 25.7%;}
+   .bg08-title {font-weight: bolder;color: #000000;font-size: 40px;font-family: "OpenSans-Regular";}
+ 
+   .bg08-box01{width: 100%; height:auto;position: absolute; bottom: 10%;text-align: center;}
+   .bg08-title01 {color: #000000;font-size: 24px;font-family: "OpenSans-Regular";} 
+}
+
+
+/* 手机端 */
+@media (max-width: 768px){
+  .centralright {
+    position: absolute;
+    width: 65%;
+    height: 60px;
+    right: -4%;
+    bottom: 30%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: scale(0.75);
+    -o-transform: scale(1);
+    font-size: 9px;
+    display: flex;
+  }
+  .centralright02 {
+    position: absolute;
+    width: 65%;
+    height: 60px;
+    right: -4%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: scale(0.75);    
+    bottom: 4%;
+    font-size: 9px;
+    display: flex;
+  }
+  .centralright img {width: 100%; height: auto;}
+  .centralright02 img {width: 100%;height: auto}
+  .centralList {width: 100%; height: auto;}
+  .list-box {width: 45px; text-align: center;}
+  .list-top {display: flex;justify-content: space-around;width: 100%;}
+  .lastImg {}
+  .text01{ position: absolute;bottom: -10px;color: rgb(96,174,242)}
+  .text02{ position: absolute;bottom: -10px;color: rgb(88,83,206)}
+  .text03{ position: absolute;bottom: -10px;color: rgb(177,55,134)}
+  .text04{ position: absolute;bottom: -10px;color: rgb(210,50,102)}
+  /* two */
+  .bg02-box{width: 150px; height:auto;position: absolute; top: 8%;left: 8%;}
+  .bg02-title {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg02-text {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}
+  .bg02-box02{width: 150px; height:auto;position: absolute; top: 50%;left: 58%;}
+  .bg02-title02 {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg02-text02 {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}
+  .bg02-box_ {position: absolute;top: 5%;right:10%; width:30%}
+  /* three */
+  .bg03-box{width: 40%; height:auto;position: absolute; top: 4%;left: 2%;}
+  .bg03-title {color: #000000;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg03-text {margin-top: 15px; color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}
+  .bg03-box02{width: 40%; height:auto;position: absolute; top: 23%;left: 60%;}
+  .bg03-title02 {color: #000000;text-indent: -10px;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg03-text02 {margin-top: 15px; color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  .bg04-box03{width: 38%; height:auto;position: absolute; top: 46.5%;left: 0.5%;}
+  .bg04-title {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg04-text {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}  
+  .bg05-box03{width: 180px; height:auto;position: absolute; top: 64%;left: 52%;}
+  .bg05-title {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg05-text {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  .bg06-box03{width: 100%; height:auto;position: absolute; top: 78%;text-align: center;}
+  .bg06-title06 {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg06-text06 {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  /* four */
+  .bg04-box04{width: 100%; height:auto;position: absolute; top: 1%;text-align: center;}
+  .bg04-title4 {color: #000000;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg04-text4 {margin-top: 15px; color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}
+  /* five */
+  .bg05-box05{width: 43%; height:auto;position: absolute; top: 14%;left: 2%;}
+  .bg05-title5 {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg05-text5 {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  .bg05-box-1{width: 150px; height:auto;position: absolute; top: 47%;left: 55%;}
+  .bg05-title-1 {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg05-text-1 {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}
+
+  .bg05-box-2{width: 50%; height:auto;position: absolute; bottom: 8%;left: 5%;}
+  .bg05-title-2 {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg05-text-2 {margin-top: 15px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  /* six */
+  .bg06-box{width: 100%; height:auto;position: absolute; top: 2%;text-align: center;}
+  .bg06-title {color: #000000;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg06-text {margin-top: 15px; color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  .bg06-box01{width: 50%; height:auto;position: absolute; top: 2%;left: 18.7%;}
+  .bg06-title01 {color: #000000;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg06-text01 {margin-top: 7px;color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}  
+  .bg06-btn {width: 200px;text-align: center;height:20px;line-height: 20px; margin-top: 5px; color: rgb(157,157,157);font-size: 12px;border: 1px solid rgb(157,157,157);border-radius: 15px; font-family: "OpenSans-Regular";}   
+
+  .bg06-box02{width: 100%; height:auto;position: absolute; bottom: 5px;text-align: center;}
+  .bg06-title02 {color: #ffffff;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg06-text02 {margin-top: 5px; color: #ffffff;font-size: 12px;font-family: "OpenSans-Regular";}  
+  /* seven */
+  .central7{height: 3100px;}
+  .bg07-box{width: 100%; height:auto;position: absolute; top: 1%;text-align: center;}
+  .bg07-title {color: #000000;font-size: 15px;font-family: "OpenSans-Regular";}
+  .bg07-text {margin-top: 0px; color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}  
+
+  .bg07-list-box {width: 100%;display:flex;flex-wrap: wrap;justify-content: space-around; position: absolute; top: 2.5%;left: 50%;transform: translate(-50%);}
+  /* .bg07-div {width: 320px;} */
+  .bg07-text01 {height:45px;line-height:45px;font-size: 24px;margin-top:15px;text-align: center; background: rgb(236,235,235)}
+
+  .bg07-img {height:408px;margin-top: 30px;}
+  
+  /* eight */
+  .bg08-box{width: 43%; height:auto;position: absolute; top: 2%;left: 25.7%;}
+  .bg08-title {font-weight: bolder;color: #000000;font-size: 24px;font-family: "OpenSans-Regular";}
+
+  .bg08-box01{width: 100%; height:auto;position: absolute; bottom: 10%;text-align: center;}
+  .bg08-title01 {color: #000000;font-size: 12px;font-family: "OpenSans-Regular";}  
+}
